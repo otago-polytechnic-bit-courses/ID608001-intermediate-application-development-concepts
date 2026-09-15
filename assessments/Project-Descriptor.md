@@ -69,12 +69,12 @@ At the successful completion of this course, you will be able to:
 
 ---
 
-# Assessments
+## Assessments
 
 | Assessment | Weighting | Due Date                | Learning Outcomes |
 | ---------- | --------: | ----------------------- | ----------------- |
-| Practical  |       20% | 18 September at 4:59 PM | LO1               |
-| Project    |       80% | 13 November at 4:59 PM  | LO1, LO2          |
+| Practical  |       20% | 23 September at 10:00 AM | LO1               |
+| Project    |       80% | 13 November at 4:59 PM  | LO1, LO2           |
 
 The Practical provides an early, focused demonstration of LO1.
 
@@ -142,7 +142,7 @@ This is deliberate, and it reflects what the course is assessing. A working app 
 
 Roughly a third of the available marks assess LO1, through the design patterns and principles you apply, your code quality, your reflections, and your code walkthrough. The remainder assess LO2.
 
-**Partial marks are available for partially completed work.** A smaller feature set, well designed, tested and reflected on, will score better than ten half-finished requirements — and the mark allocation above is what makes that true rather than merely encouraging.
+**Partial marks are available for partially completed work.** A smaller feature set, well designed, tested and reflected on, will score better than ten half-finished requirements - and the mark allocation above is what makes that true rather than merely encouraging.
 
 ## Grade Bands
 

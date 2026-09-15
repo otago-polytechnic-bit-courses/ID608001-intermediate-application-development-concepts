@@ -34,9 +34,9 @@ At the successful completion of this course, learners will be able to:
 ## Assessments
 
 | Assessment | Weighting | Due Date                | Learning Outcomes |
-| ---------- | --------- | ----------------------- | ----------------- |
-| Practical  | 20%       | 18 September at 4.59 PM | 1                 |
-| Project    | 80%       | 13 November at 4.59 PM  | 1 and 2           |
+| ---------- | --------: | ----------------------- | ----------------- |
+| Practical  |       20% | 23 September at 10:00 AM | LO1               |
+| Project    |       80% | 13 November at 4:59 PM  | LO1, LO2  
 
 ## Grade Table - Criterion Referenced
 
